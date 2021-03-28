@@ -1,6 +1,6 @@
 
 ## 文件管理
-* [1.显示当前工作目录的绝对路径](https://github.com/LinuxInterviewHub/LinuxInterview/blob/main/文件管理.md#1显示当前工作目录的绝对路径)
+* [1.显示当前工作目录的绝对路径](https://github.com/LinuxInterviewHub/LinuxInterview/blob/main/文件管理.md#1.显示当前工作目录的绝对路径)
 * [2.查看当前目录的所有内容信息](https://github.com/LinuxInterviewHub/LinuxInterview/blob/main/文件管理.md#2查看当前目录的所有内容信息)
 * [3.显示当前目录所有的文件和目录，包括隐藏的](https://github.com/LinuxInterviewHub/LinuxInterview/blob/main/文件管理.md#3显示当前目录所有的文件和目录包括隐藏的)
 * [4.以行的形式显示当前目录所有的文件和目录，包括隐藏的](https://github.com/LinuxInterviewHub/LinuxInterview/blob/main/文件管理.md#4以行的形式显示当前目录所有的文件和目录包括隐藏的)
