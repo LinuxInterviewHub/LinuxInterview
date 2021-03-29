@@ -1,4 +1,4 @@
-# Shell printf命令
+## Shell printf命令
 
 * [1.语法](#1语法)
 * [实例](#实例)
