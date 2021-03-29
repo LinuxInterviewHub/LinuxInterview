@@ -305,13 +305,13 @@
 
 
 
-# Shell 传递参数
+## Shell 传递参数
 
 * [1.语法](https://github.com/LinuxInterviewHub/LinuxInterview/blob/main/shell传递参数.md#1.语法)
 * [参考链接](https://github.com/LinuxInterviewHub/LinuxInterview/blob/main/shell传递参数.md#参考链接)
 
 
-# Shell 数组
+## Shell 数组
 
 * [1.语法](https://github.com/LinuxInterviewHub/LinuxInterview/blob/main/shell数组.md#1语法)
 * [2.读取数组](https://github.com/LinuxInterviewHub/LinuxInterview/blob/main/shell数组.md#2读取数组)
@@ -320,7 +320,7 @@
 * [参考链接](https://github.com/LinuxInterviewHub/LinuxInterview/blob/main/shell数组.md#参考链接)
 
 
-# Shell 基本运算符
+## Shell 基本运算符
 
 * [1.概念](https://github.com/LinuxInterviewHub/LinuxInterview/blob/main/shell基本运算符.md#1概念)
 * [2.算术运算符](https://github.com/LinuxInterviewHub/LinuxInterview/blob/main/shell基本运算符.md#2算术运算符)
@@ -331,7 +331,7 @@
 * [7.文件测试运算符](https://github.com/LinuxInterviewHub/LinuxInterview/blob/main/shell基本运算符.md#文件测试运算符)
 * [参考链接](https://github.com/LinuxInterviewHub/LinuxInterview/blob/main/shell基本运算符.md#参考链接)
 
-# Shell echo 命令
+## Shell echo 命令
 
 * [1.语法](https://github.com/LinuxInterviewHub/LinuxInterview/blob/main/shell-echo命令.md#1语法)
 * [2. 显示普通字符串:](https://github.com/LinuxInterviewHub/LinuxInterview/blob/main/shell-echo命令.md#2-显示普通字符串)
@@ -346,7 +346,7 @@
 
 
 
-# Shell printf命令
+## Shell printf命令
 
 * [1.语法](https://github.com/LinuxInterviewHub/LinuxInterview/blob/main/shell-printf命令.md#1语法)
 * [实例](https://github.com/LinuxInterviewHub/LinuxInterview/blob/main/shell-printf命令.md#实例)
@@ -355,7 +355,7 @@
 * [参考链接](https://github.com/LinuxInterviewHub/LinuxInterview/blob/main/shell-printf命令.md#参考链接)
 
 
-# Shell test命令
+## Shell test命令
 
 * [1.test命令](https://github.com/LinuxInterviewHub/LinuxInterview/blob/main/shell-test命令.md#1test命令)
 * [2.数值测试](https://github.com/LinuxInterviewHub/LinuxInterview/blob/main/shell-test命令.md#2数值测试)
